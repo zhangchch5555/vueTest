@@ -3,7 +3,7 @@ import Vuex from './kvue'
 
 Vue.use(Vuex)
 
-export default new Vuex.Store({ç
+export default new Vuex.Store({
   state: {
     counter: 0
   },
